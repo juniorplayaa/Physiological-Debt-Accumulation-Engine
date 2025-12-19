@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Status-Research%20Prototype-yellow?style=flat-square" />
 </p>
 
+---
+
 **Physiological Debt Accumulation Engine**
 
 This section exists for readers who do **not** want a demo, a dashboard, or a prediction.
